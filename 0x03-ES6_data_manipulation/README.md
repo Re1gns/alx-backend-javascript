@@ -1,9 +1,9 @@
-0x03. ES6 data manipulation
-JavaScriptES6
-![image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/6ab7bec4727cb5c91257.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231002T132723Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bf8e8ca7f6d4011eeb027402b9257a932524350ac49d9d3b2c204e626e2a3ded)
+# 0x03. ES6 data manipulation
+# JavaScriptES6
+
 ![image](https://github.com/Re1gns/alx-backend-javascript/assets/117748085/60c39593-9f61-43a5-b89d-a790030836ad)
 
-Resources
+# Resources
 
 Read or watch:
 
@@ -13,7 +13,7 @@ Read or watch:
     Map Data Structure
     WeakMap
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -21,7 +21,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
     Typed arrays
     The Set, Map, and Weak link data structures
 
-Requirements
+# Requirements
 
     All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
     Allowed editors: vi, vim, emacs, Visual Studio Code
@@ -33,7 +33,7 @@ Requirements
     Your code needs to pass all the tests and lint. You can verify the entire project running npm run full-test
     All of your functions must be exported
 
-Setup
+# Setup
 Install NodeJS 12.11.x
 
 (in your home directory):
